@@ -3,6 +3,13 @@
 ## Project Overview
 The Smart Water Irrigation System is an innovative solution designed to optimize water usage for agricultural purposes. This system leverages smart technology to automate the irrigation process, ensuring efficient water delivery based on real-time soil moisture levels and environmental conditions.
 
+## Team Members
+
+1. Arjit Avadhanam (Leader of the Project)
+2. Hruday Gurijala
+3. Yashwanth Pinniti
+4. Moses Jalli 
+
 ## Key Features
 - **Automated Irrigation Control:** The system automatically adjusts water delivery based on soil moisture readings, ensuring plants receive the right amount of water.
 - **Remote Monitoring:** Users can monitor soil moisture levels and control the irrigation system remotely via a mobile app.
