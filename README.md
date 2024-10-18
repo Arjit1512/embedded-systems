@@ -8,7 +8,7 @@ The Smart Water Irrigation System is an innovative solution designed to optimize
 - **Remote Monitoring:** Users can monitor soil moisture levels and control the irrigation system remotely via a mobile app.
 
 ## Demonstration Video
-For a comprehensive overview of the system's functionality, please watch the demonstration video: [Smart Water Irrigation System Demo](https://drive.google.com/file/d/1lU5XAWjKBt6y1lv9PERk65ghNoDy5dEM/view?usp=sharing).
+For a comprehensive overview of the system's functionality, please watch the demonstration video: [Smart Water Irrigation System](https://drive.google.com/file/d/1lU5XAWjKBt6y1lv9PERk65ghNoDy5dEM/view?usp=sharing).
 
 ## Technologies Used
 - **Sensors:** To measure soil moisture and environmental parameters.
